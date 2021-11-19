@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jazzrail
 - 👀 I’m interested in Javascript Python and CSS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on community bebefit and sport projects
+- 💞️ I’m looking to collaborate on community benefit and sport projects
+- :o) I'm a skilled project manger
 - 📫 How to reach me jazzrail@hotmail.com
 
 <!---
