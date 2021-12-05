@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jazzrail
-- 👀 I’m interested in Javascript Python and CSS
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on community benefit and sport projects
-- :o) I'm a skilled project manger
-- 📫 How to reach me jazzrail@hotmail.com
+- 👋 Hello, I am Alan Williams @jazzrail
+- 👀 I’m interested in Javascript Python and CSS -well, anything, really.
+- 🌱 I’m currently focusing on JavaScript.
+- 💞️ I have nay years expierience working on sports projects, and helping community groups.
+- :o) I am also a skilled project manager.
+- 📫 Reach me on: jazzrail@hotmail.com
 
 <!---
 jazzrail/jazzrail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
