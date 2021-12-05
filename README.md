@@ -1,5 +1,5 @@
 - 👋 Hello, I am Alan Williams @jazzrail
-- 👀 I’m interested in Javascript Python and CSS -well, anything, really.
+- 👀 I’m interested in Javascript Python and CSS.
 - 🌱 I’m currently focusing on JavaScript.
 - 💞️ I have nay years expierience working on sports projects, and helping community groups.
 - :o) I am also a skilled project manager.
